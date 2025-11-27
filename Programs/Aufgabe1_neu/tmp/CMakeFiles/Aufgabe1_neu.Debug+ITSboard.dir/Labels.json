@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/CMakeFiles/Aufgabe1_neu.Debug+ITSboard"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/CMakeFiles/Aufgabe1_neu.Debug+ITSboard.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/CMakeFiles/Aufgabe1_neu.Debug+ITSboard-complete.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-install.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-mkdir.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-test.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Aufgabe1_neu.Debug+ITSboard"
+		],
+		"name" : "Aufgabe1_neu.Debug+ITSboard"
+	}
+}

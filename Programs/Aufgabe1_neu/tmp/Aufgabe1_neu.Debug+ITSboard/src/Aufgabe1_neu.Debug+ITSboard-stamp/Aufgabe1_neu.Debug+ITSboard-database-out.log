@@ -1,0 +1,4 @@
+[0/1] Re-running CMake...
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+C:\Users\t7413\.vcpkg\artifacts\2139c4c6\tools.kitware.cmake\3.28.4\bin\cmake.exe --regenerate-during-build -SC:\TI_Labor\gitProjekte\ITSBoard_2_Semester\Programs\Aufgabe1_neu\tmp\Aufgabe1_neu.Debug+ITSboard -BC:\TI_Labor\gitProjekte\ITSBoard_2_Semester\Programs\Aufgabe1_neu\tmp\1

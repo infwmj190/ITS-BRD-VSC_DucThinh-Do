@@ -1,0 +1,26 @@
+# ninja log v6
+17	59	7846054320117629	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-mkdir	4a68976f03f6c74f
+2923	2967	7846054349165453	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-done	fe37f1fa70991c34
+139	175	7846054321247726	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-patch	699488bfeb059500
+2923	2967	7846054349165453	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/CMakeFiles/Aufgabe1_neu.Debug+ITSboard-complete	fe37f1fa70991c34
+17	59	7846054320117629	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-mkdir	4a68976f03f6c74f
+60	97	7846054320496380	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-download	9bfc050083595cb
+139	175	7846054321247726	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-patch	699488bfeb059500
+2734	2771	7846054347200019	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-executes	d6493f584a90e401
+60	97	7846054320496380	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-download	9bfc050083595cb
+97	139	7846054320908749	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-update	31a218096b30b358
+97	139	7846054320908749	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-update	31a218096b30b358
+175	1951	7846054338992898	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-configure	46e5126f3e870299
+175	1951	7846054338992898	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-configure	46e5126f3e870299
+30	121	7846975976162064	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-database	b9e1aff6dab03d8f
+1951	2730	7846054338992898	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-build	2270912608f63ece
+1951	2730	7846054338992898	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/out/Aufgabe1_neu/ITSboard/Debug/Aufgabe1_neu.axf	2270912608f63ece
+1951	2730	7846054338992898	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-build	2270912608f63ece
+2734	2771	7846054347200019	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-executes	d6493f584a90e401
+30	121	7846975976162064	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-database	b9e1aff6dab03d8f
+2871	2891	7846054348162593	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-install	72be29f1d08026d
+2871	2891	7846054348162593	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-install	72be29f1d08026d
+2891	2923	7846054348744627	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-test	615122d1a0daef06
+2891	2923	7846054348744627	C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1_neu/tmp/Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-test	615122d1a0daef06
+2923	2967	7846054349165453	CMakeFiles/Aufgabe1_neu.Debug+ITSboard-complete	fe37f1fa70991c34
+2923	2967	7846054349165453	Aufgabe1_neu.Debug+ITSboard/src/Aufgabe1_neu.Debug+ITSboard-stamp/Aufgabe1_neu.Debug+ITSboard-done	fe37f1fa70991c34

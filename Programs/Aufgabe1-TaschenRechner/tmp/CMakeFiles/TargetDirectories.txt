@@ -1,0 +1,8 @@
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/database.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-build.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-configure.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-executes.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-database.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/edit_cache.dir
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/rebuild_cache.dir

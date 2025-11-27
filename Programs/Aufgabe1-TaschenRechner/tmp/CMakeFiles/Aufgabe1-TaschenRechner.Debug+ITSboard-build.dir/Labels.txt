@@ -1,0 +1,11 @@
+# Target labels
+ Aufgabe1-TaschenRechner.Debug+ITSboard
+# Source files and their labels
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-build
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-build.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-build.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-configure.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-patch.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-update.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-download.rule
+C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-mkdir.rule

@@ -1,0 +1,13 @@
+CMake Error at toolchain.cmake:5 (include):
+  include could not find requested file:
+
+    C:/Users/t7413/.vcpkg/artifacts/2139c4c6/tools.open.cmsis.pack.cmsis.toolbox/2.11.0/etc/AC6.6.16.2.cmake
+Call Stack (most recent call first):
+  CMakeLists.txt:19 (include)
+
+
+CMake Error at CMakeLists.txt:106 (cbuild_set_options_flags):
+  Unknown CMake command "cbuild_set_options_flags".
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed

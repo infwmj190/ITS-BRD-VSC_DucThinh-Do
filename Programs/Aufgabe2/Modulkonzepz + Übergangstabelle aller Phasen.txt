@@ -1,0 +1,145 @@
+Modul 1: rotary_input — Eingangssignale (PF0/PF1 + S6)
+Aufgaben:
+
+Initialisieren der Eingänge (optional)
+
+Einlesen der Photodioden PF0 (A) und PF1 (B)
+
+Kodieren der Phase (A,B → Phase A,B,C,D)
+
+Einlesen von S6 (Fehler zurücksetzen)
+
+Schnittstellen:
+
+int readInput(void);
+→ liefert Zahl 0–3 entsprechend den Phasen A–D
+
+int buttonS6_pressed(void);
+→ liefert 1, wenn Taste S6 gedrückt wurde
+
+
+
+
+Modul 2: rotary_calculator — Logik & Phasen-FSM
+Aufgaben:
+
+Phasenübergang analysieren
+
+Bestimmung:
+
+STATE_FORWARD
+
+STATE_BACKWARDS
+
+STATE_NOCHANGE
+
+STATE_ERROR
+
+Winkel & Geschwindigkeit berechnen
+
+Schnittstellen:
+
+int rotary_determineState(lastPhase, currPhase);
+→ zentrale FSM, nutzt eine 4×4 Transition-Matrix
+
+
+
+
+Modul 3: rotary_led — Ausgabe an LEDs
+Aufgaben:
+
+LED D8–D15 → 8-Bit-Binärcounter (phasencounter & 0xFF)
+
+LED D23 → Vorwärts
+
+LED D22 → Rückwärts
+
+LED D21 → Fehler
+
+LEDs setzen über BSRR-Register
+
+Schnittstellen:
+
+void setLEDCounter(int counter);
+
+void setLEDDirection(int state);
+
+void setErrorLED(void);
+
+void clearErrorLED(void);
+
+
+
+
+Modul 4: rotary_display — LCD-Ausgabe
+Aufgaben:
+
+Display initialisieren
+
+statische Texte einmalig ausgeben
+
+updated Werte: Winkel & Geschwindigkeit
+
+optimierte Ausgabe: pro Loop nur 1 Zeichen
+
+Schnittstellen:
+
+void initDisplay(void);
+
+void updateDisplay(double angle, double speed);
+
+
+
+
+Modul 5: main — DDC Superloop
+Aufgabe:
+
+alle Module initialisieren
+
+Variablen halten:
+
+lastPhase
+
+phaseCounter
+
+angle
+
+anglePerSec
+
+errorState
+
+Zeitstempel
+
+zyklisch:
+
+Eingänge einlesen
+
+Zustand berechnen
+
+Schrittzähler anpassen
+
+Winkel berechnen
+
+Geschwindigkeit bestimmen
+
+Display aktualisieren
+
+LEDs ansteuern
+
+
+
+
+Modul 6: timer — Zeitmessung
+(Nicht ein eigener Code, wird aber in main benutzt.)
+
+Aufgaben:
+
+getTimeStamp() aus timer.h
+
+liefert 32-bit Zähler mit 90 ticks/µs
+
+Warum wichtig?
+
+zur Geschwindigkeitsermittlung
+
+zur Begrenzung des Displayupdates

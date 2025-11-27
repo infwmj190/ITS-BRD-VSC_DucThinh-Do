@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/CMakeFiles/Aufgabe1-TaschenRechner.Debug+ITSboard-complete.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-install.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-mkdir.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-test.rule"
+		},
+		{
+			"file" : "C:/TI_Labor/gitProjekte/ITSBoard_2_Semester/Programs/Aufgabe1-TaschenRechner/tmp/Aufgabe1-TaschenRechner.Debug+ITSboard/src/Aufgabe1-TaschenRechner.Debug+ITSboard-stamp/Aufgabe1-TaschenRechner.Debug+ITSboard-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Aufgabe1-TaschenRechner.Debug+ITSboard"
+		],
+		"name" : "Aufgabe1-TaschenRechner.Debug+ITSboard"
+	}
+}
